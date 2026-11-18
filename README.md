@@ -8,8 +8,8 @@
 ---
 <p align="center">
   <img src="Images/IDPhotoProf.png"
-       width="150"
-       height="150"
+       width="450"
+       height="450"
        alt="Profile Picture">
 </p>
 (☞ﾟヮﾟ)☞
