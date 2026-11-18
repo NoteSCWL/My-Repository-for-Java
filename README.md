@@ -15,8 +15,8 @@ This repository was created because ma'am told us to do so, this is for all my c
 
 ## 📂 Repository Contents
 
-| Folder | Description |
-|---|---|
+| Folder |
+|---|
 | Activities |
 | Laboratory |
 | Projects |
