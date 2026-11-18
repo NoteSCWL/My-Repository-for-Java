@@ -11,28 +11,15 @@
 
 Welcome to my Java programming repository!
 
-This repository serves as a centralized storage for my programming coursework, exercises, and practical applications.
+This repository was created because ma'am told us to do so, this is for all my code and activities and such 🐮.
 
 ## 📂 Repository Contents
 
 | Folder | Description |
 |---|---|
-| Activities | Programming exercises and assignments |
-| Laboratory | Laboratory activities and practical exercises |
-| Projects | Individual and group programming projects |
-
-## 🎯 Objectives
-
-- Improve my Java programming skills.
-- Develop logical and computational thinking.
-- Practice different programming concepts.
-- Document my progress throughout the course.
-
-## 🛠️ Technologies Used
-
-- Java
-- IntelliJ IDEA / Eclipse / VS Code
-- GitHub
+| Activities |
+| Laboratory |
+| Projects |
 
 ---
 
