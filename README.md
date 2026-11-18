@@ -12,7 +12,9 @@
        height="450"
        alt="Profile Picture">
 </p>
+
 (☞ﾟヮﾟ)☞
+
 ## 📌 About
 
 Welcome to my Java programming repository!
