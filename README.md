@@ -6,6 +6,12 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 
 ---
+<p align="center">
+  <img src="images/IDPhotoProf.png"
+       width="150"
+       height="150"
+       alt="Profile Picture">
+</p>
 (☞ﾟヮﾟ)☞
 ## 📌 About
 
