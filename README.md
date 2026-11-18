@@ -4,10 +4,9 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
-![NU-Clark](https://img.shields.io/badge/University-NU-Clark-yellow)
 
 ---
-
+(☞ﾟヮﾟ)☞
 ## 📌 About
 
 Welcome to my Java programming repository!
@@ -26,4 +25,4 @@ This repository was created because ma'am told us to do so, this is for all my c
 
 **Created by:** Jan Zickiel
 
-**Academic Year:** 2026–2027
+**1ST YEAR 2026-2027**
