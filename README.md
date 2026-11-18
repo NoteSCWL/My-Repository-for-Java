@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="images/IDPhotoProf.png"
+  <img src="Images/IDPhotoProf.png"
        width="150"
        height="150"
        alt="Profile Picture">
