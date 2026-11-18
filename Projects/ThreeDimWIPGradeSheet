@@ -1,1 +1,49 @@
-
+import java.util.Scanner;
+public class LABARRAY {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+ 
+        int[][][] array = new int[2][3][3];
+        for (int sec = 0; sec < array.length; sec++) {
+            System.out.println();
+            System.out.print("Section " + (sec + 1));
+            System.out.println();
+            for (int stu = 0; stu < array[sec].length; stu++) {
+                System.out.print(" " + "Student " + (stu + 1));
+                System.out.println();
+                for (int sub = 0; sub < array[sec][stu].length; sub++) {
+                    System.out.print("Grade for subject " + (sub + 1) + ": ");
+                    array[sec][stu][sub] = sc.nextInt();
+                    int avg = 0;
+                }
+            }
+        }
+        // for (int sec = 0; sec < array.length; sec++) {
+        //     System.out.print("Section " + (sec + 1));
+        //     for (int stu = 0; stu < array[sec].length; stu++) {
+        //         for (int sub = 0; sub < array[sec][stu].length; sub++) {
+        //             System.out.print(" tite" + array[stu]);
+        //             System.out.println();
+        //         }
+        //     }
+        // }
+        for (int sec = 0; sec < array.length; sec++) {
+            System.out.println();
+            System.out.print("Section " + (sec + 1));
+            System.out.println();
+            for (int stu = 0; stu < array[sec].length; stu++) {
+                System.out.print(" " + "Student " + (stu + 1));
+                System.out.println();
+                for (int sub = 0; sub < array[sec][stu].length; sub++) {
+                    System.out.print("Grade for subject " + (sub + 1) + ": " + array[sec][stu][sub] + " ");
+ 
+                }
+                System.out.println();
+            }
+        }
+        int avg = 0;
+        for (int ) {
+            avg += total;
+        }
+    }
+}
