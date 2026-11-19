@@ -15,9 +15,11 @@
 
 (☞ﾟヮﾟ)☞
 
-## 📌 About
+## 📌 About me and my repository
 
 Welcome to my Java programming repository!
+
+I believe that I am somebody who tends to be lazy or the opposite of outgoing, I tend to be by myself or with few people. While these things may sound negative at first I can actually be pretty cooperative and easy to talk to. I love analyzing problems and going crazy over code, puzzles, riddles, or anything that involves using my brain. My core self is rooted in being logical and rational whenever I can.
 
 This repository was created because ma'am told us to do so, this is for all my code and activities and such 🐮.
 
