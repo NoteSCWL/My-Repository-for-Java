@@ -32,6 +32,15 @@ This repository was created because ma'am told us to do so, this is for all my c
 | Projects |
 
 ---
+## ⚡ Fun Fact About Me:
+
+- 🎶 I listen to all types of music, whenever there's a chance for me to discover new genres or music I tend to listen to it. 🐻‍❄️
+- 🖥️ I have an obsessive addiction to just looking at how things work. 🐻
+- 🌙 I forget how to code every once in a while and I have to do something close to a cache delete to remember again. 🐨      
+- 🛑 Alot of my friends are actually from taiwan due to me having socializing issues IRL. 🐼
+
+## 📞 Connect with Me!
+- janzickielmejia@gmail.com
 
 **Created by:** Jan Zickiel
 
